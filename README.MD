@@ -1,5 +1,5 @@
 
-Analysis of place firing properties of CA1 place cells:
+**Analysis of place firing properties of CA1 place cells:**
 
   location or center of mass 
 
