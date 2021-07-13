@@ -13,5 +13,5 @@
 
 
 Acknowledgement
-Thanks Sean Martin for creating the base code (matheus_pfield) and the patience to answer all my questions. Also for keeping the NeuroChat library updated 
+Thanks Sean Martin @seankmartin for creating the base code (matheus_pfield) and the patience to answer all my questions. Also for keeping the NeuroChat library updated 
 (https://github.com/seankmartin/NeuroChaT) 
