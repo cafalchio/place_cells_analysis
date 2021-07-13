@@ -1,1 +1,17 @@
-A batch analysis to run place cell analysis using Neurchat. 
+
+Analysis of place firing properties of CA1 place cells:
+
+  location or center of mass 
+
+  place field size
+
+  spike in place field
+
+  peak firing
+
+
+
+
+Acknowledgement
+Thanks Sean Martin for creating the base code and the patience for my questions.
+This code use NeuroChat library: (https://github.com/seankmartin/NeuroChaT) 
