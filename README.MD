@@ -1,14 +1,17 @@
 
-**Analysis of place firing properties of CA1 place cells:**
+# **Analysis of place firing properties of CA1 place cells:**
 
-  location or center of mass 
+The notebooks uses NeuroChat to extract (in batch) the following information from single units (place cells):
 
-  place field size
+<ul>
+  <li>Location of the center of mass </li>
 
-  spike in place field
+  <li>Place field size</li>
 
-  peak firing
+  <li>Number of spikes in place field</li>
 
+  <li>Unit peak firing rate</li>
+</ul>
 
 
 
